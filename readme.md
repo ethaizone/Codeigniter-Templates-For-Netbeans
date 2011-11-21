@@ -1,5 +1,5 @@
 # Codeigniter templates for Netbeans
-I make these by search in google. Feel free to use and modify it. These templates work on "Freemaker" that embed in Netbeans.
+I make these by search in google. Feel free to use and modify it. These templates work on "Freemarker" that embed in Netbeans.
 
 ## How to use?
 1. Open Netbeans and click "Tools" -> "Templates"
