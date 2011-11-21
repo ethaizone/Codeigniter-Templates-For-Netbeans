@@ -7,5 +7,5 @@ I make these by search in google. Feel free to use and modify it. These template
 3. Create new file and select template.
 
 ## Documents
-http://platform.netbeans.org/tutorials/nbm-filetemplates.html
-http://freemarker.org/docs/dgui_template_exp.html#dgui_template_exp_direct_string
+* http://platform.netbeans.org/tutorials/nbm-filetemplates.html
+* http://freemarker.org/docs/dgui_template_exp.html#dgui_template_exp_direct_string
