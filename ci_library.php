@@ -4,9 +4,13 @@ if (!defined('BASEPATH'))
 	exit('No direct script access allowed');
 
 /**
+ * ${name?capitalize}
  * 
+ * Description...
  * 
+ * @package ${name} <your@email.com>
  * @author ${user}
+ * @version 0.0.0
  */
 class ${name?capitalize} {
 
