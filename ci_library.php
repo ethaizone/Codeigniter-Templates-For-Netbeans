@@ -24,11 +24,6 @@ class ${name?capitalize} {
 		$this->CI =& get_instance();
 		return $this;
 	}
-	
-	public function index()
-	{
-		
-	}
 
 }
 
