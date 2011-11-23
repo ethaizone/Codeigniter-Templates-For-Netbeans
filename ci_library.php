@@ -8,8 +8,8 @@ if (!defined('BASEPATH'))
  * 
  * Description...
  * 
- * @package ${name} <your@email.com>
- * @author ${user}
+ * @package ${name}
+ * @author ${user} <your@email.com>
  * @version 0.0.0
  */
 class ${name?capitalize} {
