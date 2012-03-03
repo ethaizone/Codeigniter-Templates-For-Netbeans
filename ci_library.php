@@ -17,7 +17,7 @@ class ${name?capitalize} {
 	/**
 	 * Constructor function
 	 *
-	 * @return object 
+	 * @return ${name?capitalize} 
 	 */
 	public function __construct()
 	{
