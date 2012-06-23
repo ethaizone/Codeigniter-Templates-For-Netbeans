@@ -6,7 +6,13 @@ if (!defined('BASEPATH'))
 class ${name?capitalize} extends CI_Controller {
 
 	public function __construct() {
-		parent::__construct();		
+		parent::__construct();
+
+		// load ${name} config
+		$this->load->config('${name}');
+                // load ${name} library    
+                $this->load->library('${name}');		
+                
 	}
 	
 	public function index()
